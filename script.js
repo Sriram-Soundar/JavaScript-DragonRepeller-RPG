@@ -89,7 +89,7 @@ const locations = [
         name: "kill monster",
         "button text": ["Go to town square", "Go to town square", "Go to town square"],
         "button functions": [goTown, goTown, easterEgg],
-        text: "The monsters lets out a final blood curdling scream as it dies...you gained experiance points and find gold."
+        text: "The monsters lets out a final blood curdling scream as it dies...you gained experience points and find gold."
     },
     {
         name: "lose",
