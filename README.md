@@ -30,9 +30,6 @@ Dragon Repeller was created as a learning project to enhance my skills in web de
 
 ## Game Screenshots
 
-![Game Screenshot 1](file:///Users/sriramsoundar/Desktop/WebDev/JavaScript-DragonRepeller-RPG/index.html)
-
-![Game Screenshot 2]()
 
 
-Feel free to explore, fork, and modify Dragon Repeller. Your feedback is appreciated, and I hope you enjoy playing the game as much as I enjoyed creating it!
+Feel free to explore and modify Dragon Repeller. Your feedback is appreciated, and I hope you enjoy playing the game as much as I enjoyed creating it!
