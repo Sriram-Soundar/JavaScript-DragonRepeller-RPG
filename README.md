@@ -27,9 +27,3 @@ Dragon Repeller was created as a learning project to enhance my skills in web de
 - **JavaScript:** Implementing game logic, handling user interactions, and managing data dynamically.
 - **Event Handling:** Utilizing event listeners to respond to user clicks and update the game state.
 - **Randomization:** Incorporating random events and outcomes to add variability to the gameplay.
-
-## Game Screenshots
-
-
-
-Feel free to explore and modify Dragon Repeller. Your feedback is appreciated, and I hope you enjoy playing the game as much as I enjoyed creating it!
